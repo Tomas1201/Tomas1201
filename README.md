@@ -4,17 +4,17 @@
 
 Soy un apasionado por la tecnología, la resolución de problemas y el desarrollo de sistemas robustos. Me enfoco en crear soluciones eficientes trabajando tanto en el backend como en el frontend, y disfruto llevar proyectos desde la conceptualización hasta la implementación.
 
-### 🚀 Sobre mí
+### Sobre mí
 
-- 🔭 Actualmente estoy diseñando y desarrollando **Agendify**, un software de autogestión académica.
-- 🌱 Profundizando mis conocimientos en el ecosistema **Spring Boot** y arquitecturas de aplicaciones con **Angular**.
-- 👯 Abierto a colaborar en proyectos de ingeniería, desarrollo web y soluciones innovadoras.
-- 🏆 Participé en el Congreso de Ingeniería en Sistemas (UTN Córdoba) y en concursos de programación competitiva por equipos.
-- 🔬 Siempre buscando nuevos desafíos; recientemente postulado para programas académicos (Fundación YPF) y laboratorios de investigación.
+-  Actualmente estoy diseñando y desarrollando **Agendify**, un software de autogestión académica.
+-  Profundizando mis conocimientos en el ecosistema **Spring Boot** y arquitecturas de aplicaciones con **Angular**.
+-  Abierto a colaborar en proyectos de ingeniería, desarrollo web y soluciones innovadoras.
+-  Participé en el Congreso de Ingeniería en Sistemas (UTN Córdoba) y en concursos de programación competitiva por equipos.
+-  Siempre buscando nuevos desafíos; recientemente postulado para programas académicos (Fundación YPF) y laboratorios de investigación.
 
 ---
 
-### 💻 Stack Tecnológico y Herramientas
+### Stack Tecnológico y Herramientas
 
 **Backend:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
