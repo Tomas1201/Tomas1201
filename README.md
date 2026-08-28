@@ -6,7 +6,7 @@ Soy un apasionado por la tecnología, la resolución de problemas y el desarroll
 
 ### Sobre mí
 
--  Actualmente estoy diseñando y desarrollando **Agendify**, un software de autogestión académica.
+-  Actualmente estoy diseñando y desarrollando **Karaokedj**, un software para conseguir la lirica de una canción mediante IA.
 -  Profundizando mis conocimientos en el ecosistema **Spring Boot** y arquitecturas de aplicaciones con **Angular**.
 -  Abierto a colaborar en proyectos de ingeniería, desarrollo web y soluciones innovadoras.
 -  Participé en el Congreso de Ingeniería en Sistemas (UTN Córdoba) y en concursos de programación competitiva por equipos.
